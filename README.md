@@ -1,4 +1,4 @@
-## Coursera Prictical Machine Learning Project
+## Coursera Practical Machine Learning Project
 
 ### Project Background
 
@@ -17,5 +17,5 @@ https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
 The data for this project come from this source: http://groupware.les.inf.puc-rio.br/har. If you use the document you create for this class for any purpose please cite them as they have been very generous in allowing their data to be used for this kind of assignment.
 
 ### Write Up
-The write up is under the name *pml_project.html*.
+For your convenience, you may want to read the *pml_project.docx* in stead of *pml_project.html* by click the word document file and then click *view* on the next page.
 
